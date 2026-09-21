@@ -23,3 +23,4 @@ O projeto conta com um **controle composto por um analógico e dois botões**, p
 O objetivo do projeto foi aplicar na prática conceitos de **programação, eletrônica e desenvolvimento de sistemas embarcados**, criando um pequeno console capaz de executar diferentes jogos utilizando o ESP32.
 
 **RetroGame — trazendo a nostalgia dos jogos clássicos para um projeto feito com ESP32. 🎮**
+<img width="1000" height="750" alt="image" src="https://github.com/user-attachments/assets/c13ec95a-a653-4aa8-b9a3-31aee5b1905f" />
