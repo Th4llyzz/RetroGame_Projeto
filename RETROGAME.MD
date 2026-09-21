@@ -1,4 +1,4 @@
-<h1 align="center"> <strong> RetroGame </strong> </h1>
+<h1 align="center"> <strong> 🎮RetroGame🎮 </strong> </h1>
 
 <p align="center"> <strong>Um mini videogame retrô desenvolvido com ESP32.</strong> </p>
 
