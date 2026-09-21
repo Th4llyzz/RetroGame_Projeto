@@ -3,7 +3,7 @@
 
 <p align="center"> <strong>Um mini videogame retrô desenvolvido com ESP32.</strong> </p>
 
-<p align="center"> 🚀 Space Shooter &nbsp; | &nbsp; 🧱 Tetris &nbsp; | &nbsp; 🐦 Flappy Bird </p>
+<p align="center"> 🚀 Space War &nbsp; | &nbsp; 🧱 Tetris &nbsp; | &nbsp; 🐦 Flappy Bird </p>
 
 📖 Sobre o projeto
 
