@@ -17,7 +17,7 @@ O projeto conta com um **controle composto por um analógico e dois botões**, p
 * ESP32
 * Display para exibição dos jogos
 * 1x Joystick analógico
-* 2x Botões
+* 1x Botões
 * Componentes eletrônicos auxiliares
 
 ### 🎯 Objetivo
