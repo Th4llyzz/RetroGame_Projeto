@@ -30,7 +30,7 @@ Um jogo de nave espacial onde o jogador precisa enfrentar e destruir alienígena
 
 **Objetivo:** conseguir a maior pontuação possível eliminando os inimigos.
 
-➡️ [Ver README do Space Shooter](./SpaceShooter/README.md)
+➡️ [Ver README do Space Shooter](./SpaceShooter/readme.md)
 
 ---
 
