@@ -1,5 +1,5 @@
 <h1 align="center">
-# 🚀 Space Shooter
+# 🚀 Space WAR
 </h1>
 
 <p align="center">
