@@ -18,7 +18,7 @@
 
 ## 👾 Sobre o jogo
 
-**Space Shooter** é um jogo de nave espacial desenvolvido para o projeto **RetroGame**, utilizando o **ESP32**.
+**Space WAR** é um jogo de nave espacial desenvolvido para o projeto **RetroGame**, utilizando o **ESP32**.
 
 No jogo, o jogador controla uma nave e precisa enfrentar uma série de **alienígenas inimigos**, utilizando disparos para destruí-los e aumentar sua pontuação.
 
