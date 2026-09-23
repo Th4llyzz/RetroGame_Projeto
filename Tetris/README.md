@@ -1,6 +1,9 @@
+<H1 align="center">
 # 🧱 Tetris
+</H1>
+<p align="center">
   <img width="701" height="436" alt="image" src="https://github.com/user-attachments/assets/8a663ba8-e56c-4d48-9c69-2fd6a57d2ff5" />
-
+</p>
 
 <p align="center">
   <strong>Encaixe as peças, complete as linhas e aumente sua pontuação!</strong>
