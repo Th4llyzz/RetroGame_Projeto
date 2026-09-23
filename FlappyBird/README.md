@@ -1,7 +1,7 @@
 # 🐦 Flappy Bird
-
+<p align="center">
 <img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/fe54669c-3285-42ee-9334-beb709280750" />
-
+</p>
 
 <p align="center">
   <strong>Voe, desvie dos obstáculos e tente chegar o mais longe possível!</strong>
