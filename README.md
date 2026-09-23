@@ -64,8 +64,6 @@ O RetroGame utiliza três controles físicos principais:
 | ----------- | ------------------------- |
 | 🎮 Joystick | Movimentação e navegação  |
 | 🔘 Botão 1  | Ação principal            |
-| 🔘 Botão 2  | Seleção / ação secundária |
-
 As funções podem variar dependendo do jogo.
 
 ---
@@ -75,7 +73,7 @@ As funções podem variar dependendo do jogo.
 * 🧠 ESP32
 * 🖥️ Display
 * 🎮 Joystick analógico
-* 🔘 2 botões
+* 🔘 1 botão
 * 🔌 Jumpers e fios
 * ⚡ Componentes eletrônicos auxiliares
 
