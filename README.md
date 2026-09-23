@@ -1,6 +1,8 @@
 <img width="974" height="634" alt="image" src="https://github.com/user-attachments/assets/4a8d3ade-fd61-45ce-8bd6-93fd84bbefd0" />
 
+<H1 ALING= "center">
 # 🎮 RetroGame
+</H1>
 
 <p align="center">
   <strong>Um mini videogame retrô desenvolvido com ESP32.</strong>
