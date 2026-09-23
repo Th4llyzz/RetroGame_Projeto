@@ -111,6 +111,6 @@ O jogo utiliza os componentes do console RetroGame:
 
 ## 🎮 RetroGame
 
-O **Space Shooter** é um dos jogos desenvolvidos para o projeto acadêmico **RetroGame**.
+O **Space WAR** é um dos jogos desenvolvidos para o projeto acadêmico **RetroGame**.
 
 > 🚀 **Controle sua nave. Destrua os alienígenas. Bata seu recorde!**
