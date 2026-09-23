@@ -1,4 +1,4 @@
-<img width="1920" height="810" alt="RetroGames" src="https://github.com/user-attachments/assets/4944fd08-6154-4d42-9be6-92ce860a83e6" />
+<img width="974" height="634" alt="image" src="https://github.com/user-attachments/assets/4a8d3ade-fd61-45ce-8bd6-93fd84bbefd0" />
 
 # RetroGame
 
