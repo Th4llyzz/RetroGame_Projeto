@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🚀 Space Shooter &nbsp; | &nbsp; 🧱 Tetris &nbsp; | &nbsp; 🐦 Flappy Bird
+  🚀 Space WAR &nbsp; | &nbsp; 🧱 Tetris &nbsp; | &nbsp; 🐦 Flappy Bird
 </p>
 
 ---
@@ -24,13 +24,13 @@ O sistema possui um **joystick analógico e dois botões físicos**, utilizados 
 
 ## 🕹️ Jogos disponíveis
 
-### 🚀 Space Shooter
+### 🚀 Space WAR
 
 Um jogo de nave espacial onde o jogador precisa enfrentar e destruir alienígenas.
 
 **Objetivo:** conseguir a maior pontuação possível eliminando os inimigos.
 
-➡️ [Ver README do Space Shooter](./SpaceShooter/readme.md)
+➡️ [Ver README do Space WAR](./SpaceShooter/readme.md)
 
 ---
 
