@@ -102,24 +102,6 @@ O jogo utiliza os componentes do console RetroGame:
 
 ---
 
-## 📸 Demonstração
-
-Adicione aqui imagens do jogo:
-
-```text
-📷 Gameplay
-📷 Nave
-📷 Alienígenas
-📷 Sistema de pontuação
-```
-
-Exemplo:
-
-```markdown
-![Space Shooter](../imagens/space-shooter.jpg)
-```
-
----
 
 ## 🎮 RetroGame
 
