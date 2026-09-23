@@ -40,7 +40,7 @@ Uma versão do clássico jogo de encaixe de peças.
 
 **Objetivo:** organizar as peças para completar linhas e conseguir a maior pontuação possível.
 
-➡️ [Ver README do Tetris](./Tetris/README.md.)
+➡️ [Ver README do Tetris](./Tetris/README.md)
 
 ---
 
