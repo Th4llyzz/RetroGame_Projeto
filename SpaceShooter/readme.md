@@ -1,7 +1,7 @@
 # 🚀 Space Shooter
-
+<p align="center">
 <img width="701" height="436" alt="image" src="https://github.com/user-attachments/assets/63585084-5a97-4ccc-80a6-fe51a0b6ba00" />
-
+</p>
 
 <p align="center">
   <strong>Defenda a galáxia e destrua os alienígenas!</strong>
